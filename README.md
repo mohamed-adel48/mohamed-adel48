@@ -1,4 +1,6 @@
-##  Welcome to Mohamed Adel's profile! 👋
+<div align="center">
+  <h1>Welcome to Mohamed Adel's profile!👋</h1>
+</div>
 
 <!--
 **mohamed-adel48/mohamed-adel48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
